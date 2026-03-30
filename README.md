@@ -1,16 +1,34 @@
-## Hi there 👋
+# Hi, I'm Abel
 
-<!--
-**Abel-Thomas-22/Abel-Thomas-22** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 **Branch:** Aerospace Engineering  
+🏫 **University:** VIT Bhopal University  
+📅 **Year:** 2nd Year  
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+##  About Me
+I’m an Aerospace Engineering student curious about the possibilities of what can be made, and how software can be applied to real-world problems.
+
+---
+
+## What I Want to Learn
+- Programming & problem solving  
+- AI & Machine Learning basics  
+- Applying tech and desgin efficiency in aerospace and real-world systems  
+
+---
+
+## Skills (Learning Phase)
+- Python  
+- Git & GitHub  
+- Basics of problem solving
+- AutoCad   
+
+---
+
+## Connect With Me
+- GitHub: https://github.com/Abel-Thomas-22
+
+---
+
+"It is a shame for a man to grow old without seeing the beauty and strength of which his body is capable" But a man capable of experiencing the strength of his mind will know the true beauty of the world.
